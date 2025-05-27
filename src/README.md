@@ -4,9 +4,9 @@ layout: Blog
 icon: house
 title: 博客主页
 heroImage: https://theme-hope-assets.vuejs.press/logo.svg
-heroText: 你博客的名称
-heroFullScreen: true
-tagline: 你可以在这里放置你的口号与标语
+heroText: 李老师的博客
+heroFullScreen: false
+tagline: 多学一分钟 老公大不同
 projects:
   - icon: folder-open
     name: 项目名称
